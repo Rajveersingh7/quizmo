@@ -15,10 +15,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 // Middleware setup (CORS, JSON parsing)
-const allowedOrigins = [
-  "https://<your-vercel-project>.vercel.app",
-  "http://localhost:5173"
-];
+const allowedOrigins = ["https://quizmoai.vercel.app", "http://localhost:5173"];
 app.use(
   cors({
     origin: allowedOrigins,
