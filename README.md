@@ -40,8 +40,8 @@ Built with **React**, **Node.js/Express**, **MongoDB**, and the **Google Gemini 
 - MongoDB (with Mongoose ODM)
 
 ### Deployment:
-- **Frontend**: [Vercel](https://quizmoai.vercel.app)  
-- **Backend**: [Render](https://quizmo-backend.onrender.com)  
+- **Frontend**: [Vercel](https://vercel.com)
+- **Backend**: [Render](https://render.com)
 - **Database**: MongoDB Atlas
 
 ---
