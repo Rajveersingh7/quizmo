@@ -5,6 +5,13 @@ Built with **React**, **Node.js/Express**, **MongoDB**, and the **Google Gemini 
 
 ---
 
+## 🌐 Live Demo
+
+- **Frontend**: [quizmoai.vercel.app](https://quizmoai.vercel.app/)  
+- **Backend**: [quizmo-backend.onrender.com](https://quizmo-backend.onrender.com/) _(API only)_
+
+---
+
 ## 🚀 Features
 
 - **AI-Generated Quizzes**: Instantly generate multiple-choice quizzes on any topic using Google Gemini AI.
@@ -43,13 +50,6 @@ Built with **React**, **Node.js/Express**, **MongoDB**, and the **Google Gemini 
 - **Frontend**: [Vercel](https://vercel.com)
 - **Backend**: [Render](https://render.com)
 - **Database**: MongoDB Atlas
-
----
-
-## 🌐 Live Demo
-
-- **Frontend**: [quizmoai.vercel.app](https://quizmoai.vercel.app/)  
-- **Backend**: [quizmo-backend.onrender.com](https://quizmo-backend.onrender.com/) _(API only)_
 
 ---
 
