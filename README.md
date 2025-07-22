@@ -5,10 +5,8 @@ Built with **React**, **Node.js/Express**, **MongoDB**, and the **Google Gemini 
 
 ---
 
-## 🌐 Live Demo
-
-- **Frontend**: [quizmoai.vercel.app](https://quizmoai.vercel.app/)  
-- **Backend**: [quizmo-backend.onrender.com](https://quizmo-backend.onrender.com/) _(API only)_
+# 🎯 Deploy link 
+- [Click Here](https://quizmoai.vercel.app/)
 
 ---
 
